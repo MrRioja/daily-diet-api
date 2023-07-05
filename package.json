@@ -1,0 +1,9 @@
+{
+  "name": "daily-diet-api",
+  "version": "1.0.0",
+  "description": "Daily Diet, uma API para controle de dieta diária",
+  "main": "index.js",
+  "author": "Luiz Rioja <lulyrioja@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
