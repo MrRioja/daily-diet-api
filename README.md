@@ -57,6 +57,10 @@ O propósito desse repositório é conter o código da API dessa aplicação, co
   - Melhor sequência de refeições dentro da dieta
 - [ ] O usuário só pode visualizar, editar e apagar as refeições o qual ele criou.
 
+As requisições para testar a API estão disponíveis no botão abaixo:
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=nodejs-api-rest&uri=TODO)
+
 ## Instalação
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
