@@ -59,7 +59,7 @@ O propósito desse repositório é conter o código da API dessa aplicação, co
 
 As requisições para testar a API estão disponíveis no botão abaixo:
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=nodejs-api-rest&uri=TODO)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=nodejs-api-rest&uri=https://github.com/MrRioja/daily-diet-api/blob/5ce27c804a857c0eddfddbc2fa6ebf1cd621cc76/.github/diet-api-requests-collection.json)
 
 ## Instalação
 
