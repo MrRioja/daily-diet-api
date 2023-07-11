@@ -42,7 +42,7 @@ export async function mealsRoutes(app: FastifyInstance) {
           id: randomUUID(),
           name,
           description,
-          date,
+          date: date.toISOString(),
           time,
           on_diet: onDiet,
           user_id: id,
@@ -92,7 +92,7 @@ export async function mealsRoutes(app: FastifyInstance) {
           date,
           time,
           on_diet: onDiet,
-          updated_at: new Date().toDateString(),
+          updated_at: new Date(),
         })
         .returning('*')
 
